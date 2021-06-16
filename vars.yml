@@ -1,0 +1,6 @@
+deployment_name: concourse
+concourse_version: 7.3.2
+az: az1
+vm_type: default
+network_name: labnet
+web_ip: 192.168.199.101
